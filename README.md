@@ -1,7 +1,7 @@
-# regular_-expressions
+# regular-expressions
 Work with regular expressions
 Task desription 
-Practical task #3
+Practical task
 
 _______________________
 
@@ -41,7 +41,7 @@ Task 1
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part1
+Class name: Part1
 
 The input data should be uploaded from the "part1.txt" file
 
@@ -189,7 +189,7 @@ Task 2
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part2
+Class name: Part2
 
 The input data should be uploaded from the "part2.txt" file
 
@@ -271,7 +271,7 @@ Task 3
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part3
+Class name: Part3
 
 The input data should be uploaded from the "part3.txt" file
 
@@ -343,7 +343,7 @@ Task 4
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part4
+Class name: Part4
 
 ——————————————————————————
 
@@ -409,7 +409,7 @@ Stub of the class Part4
 
 ——————————————————
 
-package com.epam.rd.java.basic.practice3.Part4;  
+package Part4;  
 
  
 
@@ -477,7 +477,7 @@ Task 5
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part5
+Class name: Part5
 
 ——————————————————————————
 
@@ -571,7 +571,7 @@ Task 6
 
 ——————————————————————————
 
-Class name: com.epam.rd.java.basic.practice3.Part6
+Class name: Part6
 
 The input data should be uploaded from the "part6.txt" file
 
@@ -659,9 +659,6 @@ How to get the input data (the file should be placed in the root of the project,
 
 ——————————————————————————
 
-package com.epam.rd.java.basic.practice3;
-
- 
 
 import java.io.IOException;
 
